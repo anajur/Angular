@@ -1,0 +1,5 @@
+<label>Username</label>
+<input [(ngModel)]="username" type="text" class="form-control">
+<p *ngIf="username.length">Welcome {{ username }}!</p>
+
+<button [disabled]="!username.length" (click)="onClick()" class="btn btn-dark">Reset User</button>

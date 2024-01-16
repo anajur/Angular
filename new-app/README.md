@@ -1,3 +1,6 @@
+Projeto criado com a finalidade de estudar Angular
+
+Códigos comentados são exemplos de uso de funcionalidades
 # MyDreamApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
